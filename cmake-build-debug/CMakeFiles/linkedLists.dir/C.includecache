@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Schuljahr 2020_21/SEW/Exercises/linkedLists/main.c
+stdio.h
+-
+stdbool.h
+-
+mm_malloc.h
+-
+
